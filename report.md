@@ -1,3 +1,3 @@
-| host| status |
-| ------------- | -----:|
-| msep1 | inactive |
+| host| status | ts |
+| ------------- | :-----:| -----:
+| msep1 | inactive | 20220707T062056 |
